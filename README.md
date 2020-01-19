@@ -16,4 +16,5 @@ Machine Learning algorithms used to predict the target in the following dataset 
 
 the dataset can be found here https://www.kaggle.com/pavanraj159/predicting-a-pulsar-star
 
-this is a kaggle competition and the link to my kaggle kernel for the same competition is this 
+the link to my kaggle kernel for the same competition is this https://www.kaggle.com/iamsiddhant/predicting-a-pulsar-star
+
