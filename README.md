@@ -7,6 +7,7 @@ The data set shared here contains 16,259 spurious examples caused by RFI/noise, 
 Each row lists the variables first, and the class label is the final entry. The class labels used are 0 (negative) and 1 (positive).
 
 Machine Learning algorithms used to predict the target in the following dataset are
+
 1-Logistic Regression
 
 2-Random Forest Classifier 
