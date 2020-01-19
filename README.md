@@ -8,7 +8,9 @@ Each row lists the variables first, and the class label is the final entry. The 
 
 Machine Learning algorithms used to predict the target in the following dataset are
 1-Logistic Regression
+
 2-Random Forest Classifier 
+
 3-Support Vector Classification
 
 the dataset can be found here https://www.kaggle.com/pavanraj159/predicting-a-pulsar-star
